@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeeMore</string>
+    <string name="hintName">Username</string>
+    <string name="hintPassword">Password</string>
+    <string name="signLabel">Sign in</string>
+    <string name="smart_fridge"> Smart Fridge </string>
+</resources>
